@@ -7,6 +7,13 @@ Share link + name of meme at the end
 https://censuvius.github.io/memes/"YOUR_MEME.png"
 
 *Meme list:*
+LUL.jpg
+ShiftingEyes.gif
+illfuckingdoitagain.png
+kekw.png
+monkas.jpg
+nou.png
+yallgotanymorepixels.png
 AightImOut.png
 ChangeMyMind.png
 ConfusedMathLady.png
